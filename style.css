@@ -1,0 +1,60 @@
+h1{
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: blue;
+    /* padding: 10px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+img{
+    width: 45%;
+    margin: 20px;
+    border: 5px solid pink;
+
+}
+.car{
+    border: 5px solid cyan;
+    border-top-left-radius: 50%;
+}
+p{
+    font-size: 20px;
+    
+}
+ul{
+    font-size: 20px;
+    color: blueviolet;
+    
+}
+.pet{
+    color: red;
+    list-style: circle;
+    
+}
+.red{
+    border-bottom: 5px solid lawngreen;
+    padding-bottom: 10px;
+
+}
+.pen{
+    color: blue;
+    font-style: italic;
+}
+.line{
+    text-decoration: underline;
+}
+.color{
+    color: orange;
+    text-transform:uppercase ;
+}
+.mouse{
+    border: 5px solid  black;
+    border-bottom-color:purple ;
+
+}
+.dog{
+    color: purple;
+}
+
+
